@@ -46,7 +46,7 @@ class Grid3 extends Component{
                                         <div className="column">
                                             <label className="black-text text-darken font-weight-bold mt-3"><span>TOTAL</span></label>
                                         <br/>
-                                            <label className="black-text text-darken mt-2">$2,340MXN</label>
+                                            <label className="black-text text-darken mt-2">$2,340 MXN</label>
                                         </div>
                                         <div className="column">
                                             <label className="black-text text-darken font-weight-bold mt-3"><span>CANTIDAD</span></label>
